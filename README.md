@@ -16,7 +16,9 @@
 ##  Machine Learning, Deep Learning, Data Analytic & AI Projects
 
 ### 🛡️ Cybersecurity Policy Generation with LLMs and Multi-Agent Systems
-A robust system to automate cybersecurity policy creation using fine-tuned LLMs/SLMs and Retrieval-Augmented Generation (RAG).  
+**Project repository:** https://github.com/emv5358/A-I-574-NLP-Project
+
+🔹A robust system to automate cybersecurity policy creation using fine-tuned LLMs/SLMs and Retrieval-Augmented Generation (RAG).  
 🔹 Created a custom dataset from NIST, ISO 27001, GDPR frameworks  
 🔹 Designed a multi-agent architecture for drafting, validation, and approval  
 🔹 Deployed LoRA-tuned LLaMA 3.2 models using CrewAI, LM Studio, and Ollama  
